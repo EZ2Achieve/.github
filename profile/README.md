@@ -1,5 +1,5 @@
 ## EZ2DB
-- EZ2ON Achievement Web Project Organization
+- EZ2ON Achievement System Web Project Organization
 ### Stack
 ---
 #### Back-End
