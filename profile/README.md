@@ -1,4 +1,4 @@
-## EZ2DB
+## EZ2Achieve
 - EZ2ON Achievement System Web Project Organization
 ### Stack
 ---
