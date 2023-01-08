@@ -26,6 +26,6 @@
 ### Member
 ---
 - Back-End - [ksh1042](https://github.com/ksh1042)
-- Front-End - [sumstain](https://github.com/sumstain)
+- Front-End - [sumstain](https://github.com/sumstain)(Past), [tripkmin](https://github.com/tripkmin)
 - Image-Client - [fhalfkg](https://github.com/fhalfkg)
 - Planner - [FourkLike](https://github.com/Fourklike)
